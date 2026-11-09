@@ -5,9 +5,9 @@
 <circle cx="24" cy="20" r="6" fill="#FF5F57"/>
 <circle cx="44" cy="20" r="6" fill="#FEBC2E"/>
 <circle cx="64" cy="20" r="6" fill="#28C840"/>
-<text x="490.0" y="25" text-anchor="middle" class="t" fill="#64748B" font-size="13">credreap — grimh3xx@centraltech</text>
+<text x="490.0" y="25" text-anchor="middle" class="t" fill="#64748B" font-size="13">credreap — grimh3xx@credreap</text>
 <g class="t">
-<text x="26.0" y="70" fill="#22D3EE">grimh3xx@centraltech</text>
+<text x="26.0" y="70" fill="#22D3EE">grimh3xx@credreap</text>
 <text x="194.0" y="70" fill="#D5DDE8">:</text>
 <text x="202.4" y="70" fill="#60A5FA">~</text>
 <text x="210.8" y="70" fill="#D5DDE8">$ </text>
